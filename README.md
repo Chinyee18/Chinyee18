@@ -1,4 +1,4 @@
-# Build an animated website with React JS, Sass, Bootstrap, GSAP ScrollTrigger
+# Build an animated website with Sass, Bootstrap, GSAP ScrollTrigger
 
-Demo [https://www.andthen.co.th/](https://www.andthen.co.th/)
-![andthen](https://github.com/Chinyee18/Animated-gsap-react-website/assets/53111687/8c736b73-c832-4ef0-afbf-c3d5d855dcde)
+Demo [http://www.digitalyst.ai/](http://www.digitalyst.ai/)
+![website](https://github.com/Chinyee18/Animated-gsap-react-website/assets/53111687/7ee536f4-6bfe-43cf-b884-5ce909bfcd62)
